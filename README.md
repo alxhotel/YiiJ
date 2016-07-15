@@ -1,2 +1,2 @@
-# YiiJ
-[WIP] Yii framework for Java
+# YiiJ - Yii Web Programming Framework for Java
+Work in progress
