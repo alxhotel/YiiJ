@@ -16,5 +16,5 @@ jobs:
       - uses: actions/setup-java@v3
         with:
           distribution: 'zulu'
-          java-version: '17'
+          java-version: ${{ matrix.java }}
       - run: mvn test -f ./pom.xml
